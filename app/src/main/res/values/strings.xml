@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Birthday Card</string>
+    <string name="DOB">Select your date of birth?</string>
+    <string name="user_name">What\'s your name?</string>
+    <string name="submit">Generate</string>
+    <string name="textView">TextView</string>
+    <string name="textView2">TextView2</string>
+    <string name="happy_birthday">Happy Birthday,</string>
+    <string name="birthdate">What a lovely time to be born:</string>
+    <string name="how_old">Wow! you\'re how old!!?</string>
+    <string name="chinese_sign">Your chinese sign is</string>
+    <string name="birthstone">Your birthstone is</string>
 </resources>
